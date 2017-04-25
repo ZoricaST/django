@@ -1,2 +1,2 @@
 # django
-tutorijal django
+pravljenje sajta u Djangu
